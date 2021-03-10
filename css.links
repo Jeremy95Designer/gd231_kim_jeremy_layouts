@@ -1,0 +1,16 @@
+<!-- Primary Page Layout
+------------------------------------------------
+<div class="container">
+
+  <ul class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li>Layouts</li>
+      </ul>
+      
+  <h1>Layouts</h1>
+  <p class="lead">We all hear about the grid, it's crucial to staying consistent through out your designs.
+  </p>
+  
+  <h2>The Grid</h2>
+  <p>The grid is a 12-column fluid grid, that shrinks with the browser/device at smaller sizes. The mac
+  width can be changes with one line of CSS and all columns will resize accordingly.</p>

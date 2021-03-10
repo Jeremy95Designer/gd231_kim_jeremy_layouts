@@ -1,0 +1,13 @@
+  <footer>
+    <div class="container">
+        <p>{Jeremy Kim}  |  Copyright (a) {2021}</p>
+    </div>
+  </footer>
+  
+<!-- End Document
+  --------------------------------------------------- -->
+  
+  <script src="./script.js"></script>
+  
+</body>
+</html>
